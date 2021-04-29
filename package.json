@@ -9,6 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@slack/bolt": "^3.3.0"
+    "@slack/bolt": "^3.3.0",
+    "@vendia/serverless-express": "^4.3.4"
+  },
+  "devDependencies": {
+    "serverless": "^2.38.0",
+    "serverless-offline": "^6.9.0"
   }
 }
